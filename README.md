@@ -1,3 +1,22 @@
+# Table of contents
+
+- [My builder](#my-builder)
+  - [Databases](#databases)
+    - [Dagoba: an in-memory graph database](#dagoba-an-in-memory-graph-database)
+---
+
+# My builder
+
+## Databases
+
+### Dagoba: an in-memory graph database
+
+- [Ref](https://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+- [Other learning site](https://aosabook.org/en/)
+- [Builder](./my/ob.md)
+
+---
+
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
