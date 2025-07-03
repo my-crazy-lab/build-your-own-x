@@ -1,20 +1,22 @@
 # My builder
 
-## Databases
+## [Database](#build-your-own-database)
 
 ### Dagoba: an in-memory graph database
-
 - [Ref](https://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
-- [Other learning site](https://aosabook.org/en/)
-- [Apache tinkerpop - gremlin](https://tinkerpop.apache.org/)
 - [Builder](./my/ob/README.md)
 
-## Command-Line Tool
+## [Command-Line Tool](#build-your-own-command-line-tool)
 
 ### Go: Visualize your local git contributions with Go
-
 - [Ref](https://flaviocopes.com/go-git-contributions/)
 - [Builder](./my/iz/README.md)
+### Go: Build a command line app with Go: lolcat
+- [Ref](https://flaviocopes.com/go-tutorial-lolcat/)
+- [Builder](./my/xz/README.md)
+###  GO: Building a cli command with Go: cowsay
+- [Ref](https://flaviocopes.com/go-tutorial-cowsay/)
+- [Builder](./my/gx/README.md)
 
 ## Build your own &lt;insert-technology-here&gt;
 
@@ -132,9 +134,9 @@ It's a great way to learn.
 #### Build your own `Command-Line Tool`
 
 * :white_check_mark: [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
-* [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
-* [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
-* [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
+* :white_check_mark: [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
+* :white_check_mark: [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
+* :x: [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
 * [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
 * [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
 * [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
@@ -151,7 +153,7 @@ It's a great way to learn.
 * [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**Go**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
 * [**Go**: _Build Your Own Redis from Scratch_](https://www.build-redis-from-scratch.dev/)
-* [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+* :white_check_mark: [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
