@@ -1,11 +1,3 @@
-# Table of contents
-
-- [My builder](#my-builder)
-  - [Databases](#databases)
-    - [Dagoba: an in-memory graph database](#dagoba-an-in-memory-graph-database)
-    
----
-
 # My builder
 
 ## Databases
@@ -15,11 +7,14 @@
 - [Ref](https://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 - [Other learning site](https://aosabook.org/en/)
 - [Apache tinkerpop - gremlin](https://tinkerpop.apache.org/)
-- [Builder](./my/ob)
+- [Builder](./my/ob/README.md)
 
----
+## Command-Line Tool
 
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+### Go: Visualize your local git contributions with Go
+
+- [Ref](https://flaviocopes.com/go-git-contributions/)
+- [Builder](./my/iz/README.md)
 
 ## Build your own &lt;insert-technology-here&gt;
 
@@ -136,7 +131,7 @@ It's a great way to learn.
 
 #### Build your own `Command-Line Tool`
 
-* [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
+* :white_check_mark: [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
